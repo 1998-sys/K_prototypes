@@ -1,6 +1,6 @@
 # 🧠 Segmentação de Clientes com K-Prototypes
 
-![Segmentacao  de Clientes](./data/raw/cluster%20image.png)
+![Segmentacao  de Clientes](https://github.com/1998-sys/K_prototypes/blob/master/data/raw/cluster%20image.pnghttps://github.com/1998-sys/K_prototypes/blob/master/data/raw/cluster%20image.png)
 
 Este projeto tem como objetivo aplicar técnicas de segmentação de clientes utilizando o algoritmo **K-Prototypes**, uma variação dos tradicionais algoritmos de clustering que permite trabalhar simultaneamente com variáveis **numéricas e categóricas** — ideal para o cenário proposto.
 
